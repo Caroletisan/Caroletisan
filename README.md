@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Caroline Santos 👋
 
 - 🔭 Hoje eu trabalho com Dados & Analytics (SQL Server)
-- 📚 Estudando Spotfire, Power BI, Python e Django
-- 🌱 Connheço o básico de HTML e CSS
+- 📚 Estudando Spotfire, Power BI e Python
+- 🌱 Connheço o básico de HTML, CSS e Figma
 
 <div align="center">
   <a href="https://github.com/Caroletisan">
@@ -20,8 +20,6 @@
   <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Carol-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Carol-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">  
-</div>
 
 ##
  

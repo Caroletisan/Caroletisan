@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Caroline Santos 👋
 
-- 🔭 Hoje eu trabalho com Dados & Analytics (SQL Server)
-- 📚 Estudando Spotfire, Power BI e Python
+- 🔭 Hoje eu trabalho com Dados & Analytics
+- 📚 Estudando SQL, Power BI e Python
 - 🌱 Connheço o básico de HTML, CSS e Figma
 
 <div align="center">

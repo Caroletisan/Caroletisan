@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Caroline Santos 👋
 
 - 🔭 Hoje eu trabalho com Dados & Analytics
-- 📚 Estudando SQL, Power BI, Python, Engenharia de Dados e Databricks
+- 📚 Sempre estudando SQL, Power BI, Python, Engenharia de Dados e Databricks
 - 🌱 Connheço o básico de HTML, CSS e Figma
 
 <div align="center">
